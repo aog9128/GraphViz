@@ -18,6 +18,6 @@
   "homepage": "https://github.com/aog9128/GraphViz#readme",
   "dependencies": {
     "d3": "^5.15.0",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
